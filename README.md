@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Cricket World</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>-> Live updates <h1>
+<h1>-> Featured Matches <h1>
+<h1>-> Featured videos <h1>
+<h1>-> Top Stories <h1>
+<h1>-> More </h1> 
+
 
 </body>
 </html>
