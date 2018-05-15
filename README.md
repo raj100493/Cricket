@@ -4,8 +4,8 @@
 <title>Cricket World</title>
 </head>
 <body>
-	
-	<h1>Welcome to Cricket World.</h1>
+
+<h3>Welcome to Cricket World.</h3>
 
 <h1> . Live updates</h1>
 <h1> . Featured Matches</h1>
