@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Cricket</title>
+<title>Page Title</title>
+</head>
+<body>
 
-</head>	
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 	
 Created for cricket updates
 
